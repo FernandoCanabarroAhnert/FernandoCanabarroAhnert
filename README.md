@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Estudante de Ciência da Computação<br>📚 Eu tenho como foco tecnologias/ferramentas de back-end, mas também tenho interesse em tecnologias para front-end, a fim de criar soluções e aplicações mais eficazes<br>📖 Tenho como hobbies estudar proramação, ler, jogar e assistir séries/filmes<br>🎯 Tenho como objetivo poder criar aplicações que facilitem o dia a dia das pessoas</p>
+<p align="left">✨ Estudante de Ciência da Computação<br>📚 Eu tenho como foco tecnologias/ferramentas de back-end, mas também tenho interesse em tecnologias para front-end, a fim de criar soluções e aplicações mais eficazes<br>📖 Tenho como hobbies estudar programação, ler, jogar e assistir séries/filmes<br>🎯 Tenho como objetivo poder criar aplicações que facilitem o dia a dia das pessoas</p>
 
 ###
 
